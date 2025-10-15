@@ -1,0 +1,5 @@
+{
+  "name": "Expense Splitter Service",
+  "description": "A web application to help small groups track and split shared expenses fairly. Users can create groups, log expenses, view summaries, and get settlement suggestions to minimize transactions.",
+  "requestFramePermissions": []
+}
